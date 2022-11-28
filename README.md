@@ -14,7 +14,8 @@ API Testing
 | | «Postman» | Информация о том, что такое endpoint, pre-request script, body, test. | ✅ |
 | | «01.postman_workspace»| Скрин личного кабинета Workspace в Postman. | ✅ |
 
-Для проведения API тестирования в Postman используйте API и документацию https://reqres.in/
+Для проведения API тестирования в Postman используйте API и документацию https://reqres.in/.
+
 Представим такой сценарий :
 - Пользователь регистрируется на сайте,
 - Его данные сохраняются в бэк-енд,
